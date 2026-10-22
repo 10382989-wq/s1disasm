@@ -2,10 +2,10 @@
 ; ---------------------------------------------------------------------------
 ; Object 01 - Sonic the Hedgehog
 ; ---------------------------------------------------------------------------
-son_maxspeed:		equ	$600				; Sonic's max speed
-son_acceleration:	equ	$C				; Sonic's acceleration
-son_deceleration:	equ	$80				; Sonic's deceleration
-son_jumpspeed:		equ	$680				; Sonic's jump speed
+son_maxspeed:		equ	$180				; Sonic's max speed
+son_acceleration:	equ	$04				; Sonic's acceleration
+son_deceleration:	equ	$10  			; Sonic's deceleration
+son_jumpspeed:		equ	$280				; Sonic's jump speed
 ; ---------------------------------------------------------------------------
 
 ; Obj01:
